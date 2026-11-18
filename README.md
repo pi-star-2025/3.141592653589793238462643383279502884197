@@ -8,7 +8,7 @@
 
 979: slows down counting twice, from both sides
 
-32: slows down counting one more time in the center of the two sides of 979 (ie gold)
+32: slows down counting one more time in the center of the two sides of 979 (i.e. gold)
 
 38: using the prime number 23 falls again into the blackhole, for a third time.
 
