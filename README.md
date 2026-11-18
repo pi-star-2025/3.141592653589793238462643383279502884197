@@ -18,7 +18,7 @@
 
 32: continues falling with one side of gold
 
-79502884197: when creating matter, spins faster from one side in order to have a dominant/recessive mirror, with then the potential for gravity/antigravity
+79502884197: when creating matter, spins faster from one side in order to have a dominant/recessive mirror, with then the potential for gravity/antigravity using the prime number 97
 
 # More
 
